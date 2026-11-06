@@ -24,7 +24,7 @@ public class Main {
         }finally {
             System.out.println("averi dovuto stampare risultato il risultato ");
         }
-        System.out.println("Giorgio si preapara alla battaglia");
+        System.out.println("Giorgio si preapara alla battaglia.");
         try {
             sangiorgio.join();
         } catch (InterruptedException e) {
